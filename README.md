@@ -22,11 +22,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=porternight&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=porternight&show_icons=true&locale=en&layout=compact" alt="emiask" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=porternight&show_icons=true&locale=en" alt="emiask" /></p>
 
 <!--
+
 **PorterNight/PorterNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
