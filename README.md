@@ -1,11 +1,11 @@
-### Hello I am passionate Java Developer 👋
+### Hello, i am passionate Java Developer
 
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://t.me/traverse05" target="blank"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%039061222.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-----
+
 <h3 align="left">Languages and Tools:</h3>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=red) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
