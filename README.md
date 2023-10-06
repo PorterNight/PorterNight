@@ -1,4 +1,8 @@
-### Hello, i am passionate Java Developer
+### Hello, i am a passionate Java Developer
+
+
+- 👀 I’m interested in Programming, Backend development
+- 🌱 I’m currently working with **Spring, Hibernate, Jdbc, PostgreSQL, Docker, Linux**
 
 <h3 align="left">Connect with me:</h3>
 
